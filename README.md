@@ -82,7 +82,7 @@ jupyter notebook
 
 ### 5️⃣ Open the Analysis Notebook
 
-Open the .ipynb file in Jupyter Notebook and run the cells sequentially.
+Open the `.ipynb` file in Jupyter Notebook and run the cells sequentially.
 
 <img src="https://github.com/KrishBharadwaj5678/ecommerce-sales-analysis/raw/main/assets/readme/divider.gif" width="100%"/>
 
